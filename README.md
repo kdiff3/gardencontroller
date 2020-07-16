@@ -28,7 +28,7 @@ Gardencontroller is a framework for controlling up to four pumps that can water 
 
 Uses Raspian : https://www.raspberrypi.org/downloads/raspberry-pi-os/
 
-Please note that Python 3 needs to be system default (use update-alternaives):
+Please note that Python 3 needs to be system default (use update-alternatives):
 https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux
 
 The following libraries need to be installed:
