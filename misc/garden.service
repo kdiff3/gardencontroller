@@ -1,0 +1,11 @@
+[Unit]
+Description=Gardencontroller
+
+[Service]
+Type=oneshot
+RemainAfterExit=true
+ExecStart=/power_on.sh
+ExecStop=/power_off.sh
+
+[Install]
+WantedBy=multi-user.target

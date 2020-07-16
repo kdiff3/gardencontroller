@@ -1,0 +1,16 @@
+cistern_length: 62.5
+cistern_depth: 39.0
+cistern_height: 35.0
+soil_mac: "80:EA:CA:89:5A:46"
+soil_max_moisture: 48
+water_timer_gap: 60
+water_timer_duration: 180
+view_update_intervall: 10
+email_from: "test@test.com"
+email_to: "test@test.com"
+email_smtp_server: "mail.test.com"
+email_smtp_port: 587
+email_smtp_pw: "secret"
+mqtt_broker: "homeauto.local"
+mqtt_username: "user"
+mqtt_password: "secret"
