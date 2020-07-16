@@ -22,7 +22,7 @@ https://github.com/open-homeautomation/miflora/blob/master/README.md
 
 ## Functionality
 
-Gardencontroller is a framework for controlling up to four pumps that can water your soil, turf, flowers, vegetables (you name it). It is optimized for beeing battery powered, which is fixed requirement if it solar powered. Gardencontroller can also get water from a not active source (e.g., pond, gutter drainage). It features several backends for monitoring (console, mail, MQTT).
+Gardencontroller is a framework for controlling up to four pumps that can water your soil, turf, flowers, vegetables (you name it). It is optimized for being battery powered, which is a fixed requirement for solar powered solutions. Gardencontroller can also get water from a not active source (e.g., pond, gutter drainage). It features several backends for monitoring (console, mail, MQTT).
 
 ## Dependencies
 
